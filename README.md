@@ -1,11 +1,12 @@
-# Sup
+# Howdy
 
-I'm currently a high school student & builder passionate about linux systems, physical computing, robotics, and fascinated by cloud architecture and pen-testing cybersecurity roles. I build software pipelines for my school's robotics projects as of now, bridging microcontrollers with real-time AI inference. Also, I am learning linux skills and AWS sometimes. I love troubleshooting nasty windows and linux systems, also can't lay enough stress on the fact that I'm learning AWS as that's what I want to be doing ultimately.
+I'm a student passionate about cloud engineering and cybersecurity, linux systems, physical computing, robotics, and pen testing roles especially. I am building software pipelines for some of my robotics projects as of now, using microcontrollers with real time AI inference. Also, I am learning linux skills and AWS console. I am on TryHackMe, building a CyberSecurity base early on. I love troubleshooting nasty windows and linux systems, also I ultimately see myself being in a CyberSecurity or Cloud Architecture role in the future...
 
 ### Tech Stack & Tools
 
-- **Languages:** Python ( Learning + Building ), Java ( Full ), C++ (Arduino) [ Learning ]
-- **Platforms & OS:** Linux, Raspberry Pi 4/5, Arduino Mega 2560, AWS Consoles, Win 11 / 10 ofc, can't forget sweet win 7.
+- **Languages:** Python ( Learning + Building ), Java ( Full ), C++ ( Learning )
+- **Want to learn:** SQL, Networking, Docker, Non user friendly Linux distros like Kali, AWS, Azure, Dirbuster commands and other CyberSec critical skills.
+- **Platforms & OS:** Linux, Raspberry Pi 4/5, Arduino Mega 2560, AWS Consoles, Windows, MacOS, Android, iOS.
 - **Robotics & Vision:** OpenCV, YuNet Face Tracking via OpenCV, BTS7960 Motor Drivers, Ultrasonic & ToF Sensors, Raspberry Pi's, and whatever lies in between...
 - **AI & Audio Pipeline:** Groq API (Whisper & Qwen), WebRTC VAD, Edge-TTS
 
